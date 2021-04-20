@@ -1,4 +1,4 @@
-# StopNotes
+# StopwatchNotes
 A Windows App Stopwatch that saves a timestamp every time the user presses the ? key. When the timer has stopped the user can save it to a text file. 
 
 This is probably my first personal project and one that I wanted to implement when I first started programming. That was back when I just learned Java, but was too busy to get around to making this project. After I fell in love with C# I decided to move ahead with this project. My only big change I have left for this project is to allow the user to use any key and not be forced to use the ? key.
