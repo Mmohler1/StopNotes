@@ -1,0 +1,10 @@
+C:\Users\mikel\source\repos\StopNotes\StopNotes\bin\Debug\StopNotes.exe.config
+C:\Users\mikel\source\repos\StopNotes\StopNotes\bin\Debug\StopNotes.exe
+C:\Users\mikel\source\repos\StopNotes\StopNotes\bin\Debug\StopNotes.pdb
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.csprojAssemblyReference.cache
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.Form1.resources
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.Properties.Resources.resources
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.csproj.GenerateResource.cache
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.exe
+C:\Users\mikel\source\repos\StopNotes\StopNotes\obj\Debug\StopNotes.pdb
