@@ -8,3 +8,9 @@ This is probably my first personal project and one that I wanted to implement wh
 The idea was to use it while recording something so the user knows where in their footage they need to look for important details. Like if they need to edit out a sneeze or if something interesting happened. Instead of having to watch the footage from beginning to end, they can just look for it in their text file and easily find it.
 
 The stopwatch also has a feature that allows the user to add time to the beginning of the timer. So if someone started recording footage 35 seconds ago, then add that to the timer when they press start. This way the timer can be accurate, but they don't have to start it right when they start everything else.
+
+
+```
+ extra = ((long)numericUpDownMinutes.Value * 600000000) +    //1 minute is 600 million ticks
+       ((long)numericUpDownSeconds.Value * 10000000);        //1 second is 10 million ticks
+```
